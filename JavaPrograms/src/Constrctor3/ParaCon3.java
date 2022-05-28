@@ -2,7 +2,7 @@ package Constrctor3;
 // Default with parameterized constructore example....
 public class ParaCon3 {
 	int a;
-	
+	int b;
 	public ParaCon3()// By default hidden constructor.
 	{
 		
