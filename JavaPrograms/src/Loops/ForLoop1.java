@@ -1,7 +1,7 @@
 package Loops;
 
 public class ForLoop1 {
-
+    static int a =10000;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -10,6 +10,7 @@ public class ForLoop1 {
 			System.out.println(i);
 			
 		}
+		System.out.println(a);
 		System.out.println("programs ends");
 	
 //   1

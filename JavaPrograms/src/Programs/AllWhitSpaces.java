@@ -8,7 +8,7 @@ public class AllWhitSpaces {
 		// TODO Auto-generated method stub
 		
 		String s= " J a va s ta r";
-		String s1 = s.replaceAll("\\s","");
+		String s1 = s.replaceAll("s","t");
 		
 		System.out.println(s1);
 		

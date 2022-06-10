@@ -15,6 +15,7 @@ public class SwaptwonumbersThirdvariable {
 		
 		System.out.println(length);
 		char[] ch = s.toCharArray();
+		System.out.println(ch);
 		
 		for(int i=0; i<length;i++)
 		{
